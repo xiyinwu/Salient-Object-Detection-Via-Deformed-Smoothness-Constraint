@@ -13,3 +13,5 @@ demo.m shows how to use [1].
 Salient Object Detection Via Deformed Smoothness Constraint. 
 25th IEEE International Conference on Image Processing (ICIP). 
 2018: 2815-2819.
+
+Paper link: https://ieeexplore.ieee.org/abstract/document/8451169/
